@@ -39,7 +39,7 @@ bittora-it/
 ### ขั้นตอนที่ 1: Clone Repository
 
 ```bash
-git clone <https://github.com/TypeN2003/bittora-it-B-N.git>
+git clone <[https://github.com/TypeN2003/bittora-it-B-N.git](https://github.com/TypeN2003/bittora-it.git)>
 ```
 
 ### ขั้นตอนที่ 2: ติดตั้ง Backend และ Frontend
